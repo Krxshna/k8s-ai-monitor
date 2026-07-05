@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and database
+*.log
+*.sqlite3
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ollama / model cache
+.ollama/
+
+# Temporal worker and runtime state
+*.pid
+*.pid.lock
+
+# Python package artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment files
+.env
+
+# Cached coverage reports
+htmlcov/
+.coverage
+.coverage.*
+pytest_cache/
