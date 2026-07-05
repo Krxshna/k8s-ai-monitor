@@ -1,0 +1,4 @@
+strands-agents
+strands-agents-tools
+kubernetes>=28.1.0
+temporalio>=1.7.0
